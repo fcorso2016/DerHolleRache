@@ -1,0 +1,4 @@
+000 - No Effect
+001 - Heal
+002 - Ignore Defense
+003 - Restore MP

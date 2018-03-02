@@ -1,0 +1,9 @@
+Controls:
+Move: WASD
+Jump: Space
+Talk/Intract: Left Shift
+
+Objectives:
+Explore the world, picking up treasure from treasure chests.
+In battle, attack enemies by reducing their HP to 0. If all your party members hit 0 HP then it's game over.
+Once you defeat the Queen of the Night, it's game over.

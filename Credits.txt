@@ -1,0 +1,39 @@
+﻿Created in Unreal Engine 4 and partially coded using Microsoft Visual Studio 17
+
+Design and Programing:
+- Francesco Corso
+
+Characters:
+- Farm Boy sprite from bevouliin.com
+- Knight, Mage and Archer sprites by Ragewortt
+- Samara sprite from craftpix.net
+
+Enemies:
+- Slime sprite by Khairul169
+- Wasp sprite by Tiamalt
+- Black Knight sprite by WarmGuy
+- Bat sprite by JacPete
+- Queen of the Knight by Crysjreid
+
+Models:
+- Tree by TomaszCGB
+- Chest by ArkStudio.io
+
+UI:
+- Parchment texture from freetextures.com
+- Player Panel sprite by ChrisDesign
+- Logo and Game Over text created using cooltext.com
+- Music Score background from bwallpaper.com
+
+Font:
+- Ye Olde font by Dieter Steffmann
+
+Music:
+- "Morning Mood" originally composed Edvard Grieg
+- "The Four Seasons" originally composed by Antonio Vivaldi
+- "Eine kleine Nachtmusik" and "Der Hölle Rache kocht in meinem Herzen" originally composed by Wolfgang Amadeus Mozart
+- "Symphony No. 5" originally composed by Ludwig van Beethoven
+- "Fugue in G minor" originally composed by Johann Sebastian Bach
+- "Funeral March" originally composed by Frédéric Chopin
+
+All other assets not mentioned above are part of the Unreal Engine 4 Starter Content
